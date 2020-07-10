@@ -1,0 +1,59 @@
+attrs==19.3.0
+backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
+bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
+certifi==2020.6.20
+colorama==0.4.3
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+importlib-metadata @ file:///D:/bld/importlib-metadata_1593211612489/work
+ipykernel @ file:///D:/bld/ipykernel_1594210360520/work/dist/ipykernel-5.3.2-py3-none-any.whl
+ipython @ file:///D:/bld/ipython_1593235680304/work
+ipython-genutils==0.2.0
+jedi @ file:///D:/bld/jedi_1592619562975/work
+Jinja2==2.11.2
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1593624380152/work
+jsonschema==3.2.0
+jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1593562235049/work
+jupyter-core==4.6.3
+kiwisolver==1.2.0
+MarkupSafe==1.1.1
+matplotlib @ file:///D:/bld/matplotlib-base_1594091882257/work
+mistune==0.8.4
+mkl-service==2.3.0
+nbconvert==5.6.1
+nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1594060262917/work
+notebook @ file:///D:/bld/notebook_1594079038368/work
+numpy @ file:///D:/bld/numpy_1591485433275/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
+pandas @ file:///D:/bld/pandas_1592422178599/work
+pandocfilters==1.4.2
+parso==0.7.0
+patsy==0.5.1
+pickleshare==0.7.5
+prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1590412252446/work
+prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1592500439797/work
+Pygments==2.6.1
+pyparsing==2.4.7
+pyrsistent==0.16.0
+python-dateutil==2.8.1
+pytz==2020.1
+pywin32==227
+pywinpty==0.5.7
+pyzmq==19.0.1
+scikit-learn @ file:///D:/bld/scikit-learn_1589921036638/work
+scipy @ file:///C:/ci/scipy_1592916958183/work
+seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-base_1591878760859/work
+Send2Trash==1.5.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+statsmodels @ file:///D:/bld/statsmodels_1591963449919/work
+terminado==0.8.3
+testpath==0.4.4
+threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
+tornado==6.0.4
+traitlets==4.3.3
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1592931742287/work
+webencodings==0.5.1
+wincertstore==0.2
+zipp==3.1.0
