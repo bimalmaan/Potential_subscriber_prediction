@@ -97,7 +97,6 @@ qtconsole
 QtPy==1.9.0
 requests 
 rope 
-Rtree==0.9.4
 scikit-learn 
 scipy 
 seaborn 
