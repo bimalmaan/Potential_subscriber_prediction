@@ -25,6 +25,7 @@ entrypoints==0.3
 flake8==3.7.9
 Flask==1.1.2
 future==0.18.2
+gunicorn==20.0.4
 helpdev==0.7.1
 idna 
 imagesize==1.2.0
