@@ -90,7 +90,7 @@ python-language-server==0.31.10
 pytz==2020.1
 pywin32-ctypes==0.2.0
 pywinpty==0.5.7
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==19.0.1
 QDarkStyle==2.8.1
 QtAwesome 
